@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Root xmlns="xsd_sotr.xsd"> 
+
+<Sotrudnik CodSotrudnika="1">
+<FamilyName>Абрамов</FamilyName>
+<Name>Антон</Name>
+<Otchestvo>Алексеевич</Otchestvo>
+<Dolzhnost>Директор</Dolzhnost>
+<DatePriemaNaRabotu>12.05.2004</DatePriemaNaRabotu>
+<Children id_Children="1">
+<BabyName>Катя</BabyName>
+<Birthday>15.05.2003</Birthday>
+<NewYearPresents id_Presents="1">
+<PresentPrice>500</PresentPrice>
+<DeliveryDate>2014-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Sotrudnik>
+
+<Sotrudnik CodSotrudnika="2">
+<FamilyName>Втюрин</FamilyName>
+<Name>Василий</Name>
+<Otchestvo>Викторович</Otchestvo>
+<Dolzhnost>Зам.директора</Dolzhnost>
+<DatePriemaNaRabotu>24.10.2005</DatePriemaNaRabotu>
+<Children id_Children="2">
+<BabyName>Дима</BabyName>
+<Birthday>17.09.2005</Birthday>
+<NewYearPresents id_Presents="2">
+<PresentPrice>500</PresentPrice>
+<DeliveryDate>2014-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Sotrudnik>
+
+<Sotrudnik CodSotrudnika="3">
+<FamilyName>Гордиенко</FamilyName>
+<Name>Галина</Name>
+<Otchestvo>Геннадьевна</Otchestvo>
+<Dolzhnost>Бухгалтер</Dolzhnost>
+<DatePriemaNaRabotu>01.09.2010</DatePriemaNaRabotu>
+<Children id_Children="3">
+<BabyName>Маша</BabyName>
+<Birthday>05.05.2004</Birthday>
+<NewYearPresents id_Presents="3">
+<PresentPrice>500</PresentPrice>
+<DeliveryDate>2014-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Sotrudnik>
+
+<Sotrudnik CodSotrudnika="4">
+<FamilyName>Домбровских</FamilyName>
+<Name>Дарья</Name>
+<Otchestvo>Дмитриевна</Otchestvo>
+<Dolzhnost>Редактор</Dolzhnost>
+<DatePriemaNaRabotu>11.02.2007</DatePriemaNaRabotu>
+<Children id_Children="4">
+<BabyName>Рома</BabyName>
+<Birthday>24.01.2003</Birthday>
+<NewYearPresents id_Presents="4">
+<PresentPrice>500</PresentPrice>
+<DeliveryDate>2014-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Sotrudnik>
+
+<Sotrudnik CodSotrudnika="5">
+<FamilyName>Комаров</FamilyName>
+<Name>Кирилл</Name>
+<Otchestvo>Константинович</Otchestvo>
+<Dolzhnost>Программист</Dolzhnost>
+<DatePriemaNaRabotu>30.01.2010</DatePriemaNaRabotu>
+<Children id_Children="5">
+<BabyName>Лиза</BabyName>
+<Birthday>10.11.2002</Birthday>
+<NewYearPresents id_Presents="5">
+<PresentPrice>500</PresentPrice>
+<DeliveryDate>2014-12-31</DeliveryDate>
+</NewYearPresents>
+</Children>
+</Sotrudnik>
+
+</Root>
